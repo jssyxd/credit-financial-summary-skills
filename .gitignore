@@ -1,0 +1,11 @@
+# 本地临时产物
+__pycache__/
+*.pyc
+.DS_Store
+# OCR 中间产物(大)
+ocr*/
+_ocr*/
+# 敏感文件示例(若把仓库用于真实案例)
+*.xlsx.enc
+*.key
+.env
